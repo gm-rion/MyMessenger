@@ -9,7 +9,7 @@
     android:orientation="vertical"
     tools:context="com.hfad.mymessenger.CreateMessageActivity">
     <EditText
-        android:id="@+id/message"
+        android:id="@+id/messageOne"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
